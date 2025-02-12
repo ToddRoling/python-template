@@ -1,1 +1,1 @@
-# Replace or rename and update this template test module.
+# Modify my_test_module (delete, replace, rename, or update).
