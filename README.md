@@ -1,5 +1,9 @@
 # My Project
-<!-- [PLACEHOLDER: Replace this comment with project information] -->
+<!--
+    1. Rename My Project (above)
+    2. Add description here
+    3. Replace <repository_url> (below) with the new project GitHub repo url
+-->
 
 ## Requirements
 * Python 3.13+
@@ -11,7 +15,7 @@
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd my_project
+    cd my_project_directory
     ```
 3.  Install the required packages:
     ```bash
