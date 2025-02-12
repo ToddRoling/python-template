@@ -1,1 +1,2 @@
-# Replace or rename and update this template module.
+# Modify my_package (delete, replace, or rename).
+# Modify my_module (delete, replace, rename, or update).
